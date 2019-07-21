@@ -35,4 +35,4 @@ client.on('guildMemberAdd', member => {
   )
 })
 
-client.login('NjAyMjk4NjAzOTQzNDkzNjYy.XTO0yA.x9xcoRytJq7vDRV9Cgabs7RYIIM')
+client.login('hidden')
